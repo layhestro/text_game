@@ -1,5 +1,6 @@
 package edu.um.roguetext.controller;
 
+import edu.um.roguetext.Game;
 import edu.um.roguetext.model.Score;
 // This is used to mark fields and methods that are linked to elements in the FXML file
 import javafx.fxml.FXML;
@@ -32,5 +33,14 @@ public class ScoreController {
 
     public void updateView() {
         scoreLabel.setText("Score: " + score.getScore());
+    }
+
+    @FXML
+    private void switchToTwo() {
+        try {
+            Game.setRoot("tw");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }

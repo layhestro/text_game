@@ -8,5 +8,6 @@
     <children>
         <Label fx:id="scoreLabel" text="Score View" />
         <Button fx:id="scoreButton" text="Increase by one" onAction="#increaseScore" />
+        <Button fx:id="switchButton" text="Switch to Two" onAction="#switchToTwo" />
     </children>
 </VBox>
