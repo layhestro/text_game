@@ -1,6 +1,7 @@
 package edu.um.roguetext.model;
 
-import java.util.*;
+import java.util.List;
+import java.util.ArrayList;
 
 public class Inventory {
     private List<Item> currentItems;

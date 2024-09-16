@@ -1,0 +1,13 @@
+edu\um\roguetext\model\Roll.class
+edu\um\roguetext\model\Node.class
+edu\um\roguetext\controller\ScoreController.class
+edu\um\roguetext\model\Stats.class
+edu\um\roguetext\model\Item.class
+edu\um\roguetext\model\Player.class
+edu\um\roguetext\model\Inventory.class
+edu\um\roguetext\model\GameDataLoader.class
+module-info.class
+edu\um\roguetext\controller\TwoController.class
+edu\um\roguetext\model\World.class
+edu\um\roguetext\Game.class
+edu\um\roguetext\model\Score.class
