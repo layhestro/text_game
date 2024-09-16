@@ -1,6 +1,11 @@
-c:\Users\Greg\Documents\Code\Java\text_game\src\main\java\edu\um\roguetext\SecondaryController.java
-c:\Users\Greg\Documents\Code\Java\text_game\src\main\java\edu\um\roguetext\controller\ScoreController.java
-c:\Users\Greg\Documents\Code\Java\text_game\src\main\java\edu\um\roguetext\Game.java
-c:\Users\Greg\Documents\Code\Java\text_game\src\main\java\edu\um\roguetext\PrimaryController.java
-c:\Users\Greg\Documents\Code\Java\text_game\src\main\java\edu\um\roguetext\model\Score.java
-c:\Users\Greg\Documents\Code\Java\text_game\src\main\java\module-info.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\model\Score.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\controller\ScoreController.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\Game.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\model\Item.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\model\World.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\module-info.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\model\Node.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\model\Player.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\model\Stats.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\model\Inventory.java
+c:\Users\Greg\Documents\BSc CS\text_game\src\main\java\edu\um\roguetext\controller\TwoController.java

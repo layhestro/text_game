@@ -38,7 +38,7 @@ public class ScoreController {
     @FXML
     private void switchToTwo() {
         try {
-            Game.setRoot("tw");
+            Game.setRoot("two");
         } catch (Exception e) {
             e.printStackTrace();
         }
